@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Laurine! 👋</h1>
 
 <p align="center">
-  <i>“Building bridges between data and creativity.”</i>
+  <i>“Let’s stay focused, every project we undertake is just a matter of time and patience.”</i>
 </p>
 
 <p align="center">
