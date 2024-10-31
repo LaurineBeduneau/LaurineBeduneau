@@ -43,6 +43,9 @@
   <a href="https://www.linkedin.com/in/laurine-beduneau-383b09211" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="mailto:laurinebeduneau@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
